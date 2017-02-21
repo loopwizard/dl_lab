@@ -4,7 +4,7 @@
 2. 构建tensorflow世界观
 
 ## 代码
-1. Tensorflow exaples
+1. Tensorflow examples
 2. Keras examples
 
 ## 实战项目
