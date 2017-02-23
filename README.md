@@ -1,4 +1,4 @@
-# Deepleaning Lab
+# Deeplearning Lab
 
 ## 世界观(Essence)
 - 构建深度学习世界观
