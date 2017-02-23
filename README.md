@@ -1,10 +1,12 @@
 # Deepleaning Lab
-## 文章
-1. 构建深度学习世界观
-2. 构建tensorflow世界观
 
-## 代码
-1. Tensorflow examples
-2. Keras examples
+## 世界观(Essence)
+- 构建深度学习世界观
+- 构建tensorflow世界观
 
-## 实战项目
+## 方法论(Methodology)
+
+## 践行(Practice)
+- examples
+- projects
+
